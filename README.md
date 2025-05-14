@@ -8,7 +8,7 @@
     https://1drv.ms/u/c/b66cf157bec94be9/EdQ7cp3Ac9BCtIeBeVr2CUEBEZ-cTMs_szq2COO9aA8m_Q?e=BKDrbr
 </p>
 
-## About Laravel
+## About Laravell
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as test:
 
